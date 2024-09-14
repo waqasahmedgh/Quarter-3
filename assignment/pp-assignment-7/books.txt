@@ -1,0 +1,1 @@
+[{"book_id": 101, "title": "The Python Book", "author": "Waqas Ahmed", "available": true}]
