@@ -1,4 +1,4 @@
-import json
+import json 
 from typing import List, Dict, Optional, Union
 
 
@@ -25,7 +25,6 @@ class User:
 
     def display_info(self) -> None:
         print(f"ID: {self._user_id}, Name: {self._name}, Email: {self._email}")
-
 
 class Librarian(User):
     def __init__(self, user_id: int, name: str, email: str):
